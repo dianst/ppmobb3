@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">post3</string>
+    <string name="Judul" translatable="false">Form Pendaftaran</string>
+    <string name="tombol" translatable="false">Submit</string>
+</resources>
